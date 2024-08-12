@@ -1,0 +1,4 @@
+PATCH http://localhost:3000/api/character/6568a63d01ef4b8b301e478e
+Content-Type: application/json
+
+{"name": "Luke Test2"}
